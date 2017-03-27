@@ -1,2 +1,2 @@
-# hello-world
-This is my first git on github.
+#hello-world
+Hi , this is kawsar ahmed . Student of computer science telecommunication engineering at noakhali science and technology university.
